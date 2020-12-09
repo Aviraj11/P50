@@ -1,0 +1,14 @@
+.header {
+    background-color: lightcyan;
+    display: flex;
+    justify-content: space-between;
+}
+
+.matter {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-direction: column;
+}
+
